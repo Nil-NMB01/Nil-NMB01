@@ -14,7 +14,7 @@
 
   - [Digikoppeling (DK) Security standards & regulations](https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/) – Contributed to the Digikoppeling security standard & regulations. Digikoppeling is the obligatory national standard in context of data exchange that every Dutch government has to follow when doing any kind of data exchange with fellow governments or citizens and companies. My role was analyzing and updating the security measures, such as compliance with high security protocols like TLS 1.2/1.3 conform the advice of national security organizations such as the [National Cyber Security Centre of the Netherlands](https://www.ncsc.nl/) (NCSC). Some of the advice measures were also based on guidelines from the NCSC, such as the [2025 Security guidelines](https://www.ncsc.nl/documenten/publicaties/2025/juni/01/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2025-05).
 
-  - [Federative Service Connectivity (FSC) Extension Guidelines](https://github.com/Logius-standaarden/OIN-Stelsel) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
+  - [Federative Service Connectivity (FSC) Extension Guidelines](https://github.com/Logius-standaarden/OIN-Stelsel](https://logius-standaarden.github.io/fsc-extensie-template/) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
 
 - <b>Collaborative Projects</b>
 
