@@ -8,7 +8,7 @@
 
 ***An example of the LDV standard in action: an overview in MijnOverheid, with which a citizen gains insight into the data processing of their data by the government. This implementation serves as an example and is not definitive. See [Gitlab](https://gitlab.com/digilab.overheid.nl/ecosystem/logboek-dataverwerkingen/ldv-referentie-implementatie/-/blob/main/CONTRIBUTING.md) for your own development setup and the source code.***
 
-  - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Mainly developed the Logboek Dataverwerkingen Extension Guidelines with a colleague, to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities. Think about organizations in the healthcare sector for example who have to log more strictly due to healthcare laws such as the [NEN 7513](https://www.nen.nl/nen-7513-2024-nl-329182).
+  - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Mainly developed the Logboek Dataverwerkingen Extension Guidelines with a colleague, to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities. Think about organizations in the healthcare sector for example who have to log more strictly due to healthcare norms such as the [NEN 7513](https://www.nen.nl/nen-7513-2024-nl-329182).
 
 - <b>API Standards and Guidelines</b>
 
