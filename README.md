@@ -5,6 +5,7 @@
   
   - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Led the development of a logging standard based on GDPR, providing real-time transparency for data mutations.  This is potentially impacting millions of citizens and organizations with real-time transparency in their data mutations by the government.
 <img width="1580" height="932" alt="Image" src="https://github.com/user-attachments/assets/d1ec7513-198b-4a72-bda5-3badafe1c0f3" />
+
 ***An example of the LDV standard in action: an overview in MijnOverheid, with which a citizen gains insight into the data processing of their data by the government. This implementation serves as an example and is not definitive.***
 
   - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Mainly developed the Logboek Dataverwerkingen Extension Guidelines with a colleague, to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities. Think about organizations in the healthcare sector for example who have to log more strictly due to healthcare laws such as the NEN.
