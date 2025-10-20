@@ -26,6 +26,6 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Nil Barua | LinkedIn" width="22px" src="https://media.licdn.com/dms/image/v2/D5603AQGyo6vL6f3BVg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684826277159?e=1762387200&v=beta&t=nww10MzPVfl8aV39JoJSfaIhUD8lVQwO2QczZdCrhfQ" />][linkedin]
+[<img align="left" alt="Nil Barua | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/nil-netra-barua]
+[linkedin]: [www.linkedin.com/in/nil-netra-barua]
