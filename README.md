@@ -28,4 +28,4 @@
 
 [<img align="left" alt="Nil Barua | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 
-[linkedin]: [](www.linkedin.com/in/nil-netra-barua)
+[linkedin]: [LinkedIn](www.linkedin.com/in/nil-netra-barua)
