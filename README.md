@@ -3,7 +3,7 @@
 <h2>👨‍💻 Key Projects and Contributions:</h2>
 - <b>Logboek Dataverwerkingen Standard (inspired by OpenTelemetry)</b>
   
-  - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Led the development of a logging standard based on [GDPR](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/gdpr-basics/the-gdpr-in-brief), providing real-time transparency for data mutations.  This is potentially impacting millions of citizens and organizations with real-time transparency in their data mutations by the government.
+  - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Currently leading the development and maintenance of a national government logging standard based on the [GDPR](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/gdpr-basics/the-gdpr-in-brief) within Logius, providing real-time transparency for data mutations.  This is potentially impacting millions of citizens and organizations with real-time transparency in their data mutations by the government.
 <img width="800" height="932" alt="Image" src="https://github.com/user-attachments/assets/d1ec7513-198b-4a72-bda5-3badafe1c0f3" />
 
 ***An example of the LDV standard in action: an overview in MijnOverheid, with which a citizen gains insight into the data processing of their data by the government. This implementation serves as an example and is not definitive. See [Gitlab](https://gitlab.com/digilab.overheid.nl/ecosystem/logboek-dataverwerkingen/ldv-referentie-implementatie/-/blob/main/CONTRIBUTING.md) for your own development setup and the source code.***
