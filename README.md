@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nil Barua! <br/><a href="https://github.com/Nil-NMB01">API Architect</a>, <a href="www.linkedin.com/in/nil-netra-barua">LinkedIn</a> 
+<h1>Hi, I'm Nil Barua! <br/><a href="https://github.com/Nil-NMB01">API Architect</a>, <a href="https://linkedin.com/in/nil-netra-barua">LinkedIn</a> 
 
 <h2>👨‍💻 Key Projects and Contributions:</h2>
 - <b>Logboek Dataverwerkingen Standard (inspired by OpenTelemetry)</b>
