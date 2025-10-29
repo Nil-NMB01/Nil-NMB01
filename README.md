@@ -19,7 +19,3 @@
 - <b>Collaborative Projects</b>
 
   - [Logius Tech Radar](https://github.com/Logius-standaarden/tech-radar) – Contributed and collaborated on the development of the Logius Tech Radar to follow interesting development for data exchange standards to potentially monitor.
-
-<h2>📘 Publications and Advisories:</h2>
-
-- TBA
