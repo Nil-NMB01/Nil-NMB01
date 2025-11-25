@@ -1,5 +1,9 @@
 <h1>Hi, I'm Nil Barua! <br/><a href="https://github.com/Nil-NMB01">API Architect</a>, <a href="https://linkedin.com/in/nil-netra-barua">LinkedIn</a> 
 
+<h2>🛡️ Security Portfolio</h2>
+
+- [Portfolio](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
+
 <h2>👨‍💻 Work projects and Contributions:</h2>
 - <b>Logboek Dataverwerkingen Standard (inspired by OpenTelemetry)</b>
   
@@ -15,9 +19,5 @@
   - [Digikoppeling (DK) Security standards & regulations](https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/) – Contributed to the Digikoppeling security standard & regulations. Digikoppeling is the obligatory national standard in context of data exchange that every Dutch government has to follow when doing any kind of data exchange with fellow governments or citizens and companies. My role was analyzing and updating the security measures, such as compliance with high security protocols like TLS 1.2/1.3 conform the advice of national security organizations such as the [National Cyber Security Centre of the Netherlands](https://www.ncsc.nl/) (NCSC). Some of the advice measures were also based on guidelines from the NCSC, such as the [2025 Security guidelines](https://www.ncsc.nl/documenten/publicaties/2025/juni/01/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2025-05).
 
   - [Federative Service Connectivity (FSC) Extension Guidelines](https://logius-standaarden.github.io/fsc-extensie-template/) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
-
-<h2>🛡️ Security Portfolio</h2>
-
-- [Portfolio](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
 
 <h2>Certifications</h2>
