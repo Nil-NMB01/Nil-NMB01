@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nil Barua! <br/><a href="https://github.com/Nil-NMB01">API Architect</a>, <a href="https://linkedin.com/in/nil-netra-barua">LinkedIn</a> 
 
-<h2>👨‍💻 Key Projects and Contributions:</h2>
+<h2>👨‍💻 Work projects and Contributions:</h2>
 - <b>Logboek Dataverwerkingen Standard (inspired by OpenTelemetry)</b>
   
   - [Repository](https://github.com/Logius-standaarden/logboek-dataverwerkingen) – Currently leading the development and maintenance of a national government logging standard based on the [GDPR](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/gdpr-basics/the-gdpr-in-brief) within Logius, providing real-time transparency for data mutations.  This is potentially impacting millions of citizens and organizations with real-time transparency in their data mutations by the government.
@@ -19,3 +19,5 @@
 - <b>Collaborative Projects</b>
 
   - [Logius Tech Radar](https://github.com/Logius-standaarden/tech-radar) – Contributed and collaborated on the development of the Logius Tech Radar to follow interesting development for data exchange standards to potentially monitor.
+
+<h2>👨‍💻 Security Portfolio</h2>
