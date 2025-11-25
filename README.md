@@ -17,4 +17,7 @@
   - [Federative Service Connectivity (FSC) Extension Guidelines](https://logius-standaarden.github.io/fsc-extensie-template/) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
 
 <h2>🛡️ Security Portfolio</h2>
-  - [Repository](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
+
+- [Portfolio](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
+
+<h2>Certifications</h2>
