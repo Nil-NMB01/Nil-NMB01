@@ -16,8 +16,5 @@
 
   - [Federative Service Connectivity (FSC) Extension Guidelines](https://logius-standaarden.github.io/fsc-extensie-template/) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
 
-- <b>Collaborative Projects</b>
-
-  - [Logius Tech Radar](https://github.com/Logius-standaarden/tech-radar) – Contributed and collaborated on the development of the Logius Tech Radar to follow interesting development for data exchange standards to potentially monitor.
-
-<h2>👨‍💻 Security Portfolio</h2>
+<h2>🛡️ Security Portfolio</h2>
+  - [Repository](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
