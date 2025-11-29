@@ -21,3 +21,9 @@
   - [Federative Service Connectivity (FSC) Extension Guidelines](https://logius-standaarden.github.io/fsc-extensie-template/) – Developed the Extension Guidelines for the Digikoppeling Federative Service Connectivity standard to make sure organizations can build own extensions on the core standard in case the core standard does not provide enough functionalities.
 
 <h2>Certifications</h2>
+
+<div>
+    <img src="https://img.shields.io/badge/-ArchiMate®%203%20Foundation-1679A7?&style=for-the-badge&logo=ArchiMate&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TOGAF®%20Enterprise%20Architecture%20Foundation-1679A7?&style=for-the-badge&logo=TOGAF&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Foundations%20of%20Cybersecurity-1679A7?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
