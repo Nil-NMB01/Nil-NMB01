@@ -5,6 +5,10 @@
 - [Portfolio](https://github.com/Nil-NMB01/Security-Projects-Open-Source) - This repository showcases hands-on security projects I'm building to gain practical experience. Most of these are for personal use and not related to any work activities.
 
 <h2>👨‍💻 Work projects and Contributions:</h2>
+- <b>NL GOV Assurance Profile for OAuth 2.0</b></b>
+  
+  - [OAuth](https://logius-standaarden.github.io/OAuth-NL-profiel/) – Currently leading the development and maintenance of the NL GOV Assurance Profile for OAuth 2.0 within Logius. This is the official Dutch government standard for secure API authorization and forms a core part of Identity & Access Management (IAM) in the Dutch public sector. I am responsible for adapting the international iGov OAuth 2.0 profile to the Dutch and European regulatory context (including GDPR and eIDAS alignment), ensuring secure, interoperable, and compliant authentication and authorization mechanisms across government organizations. The profile is used for secure access to digital public services that impact millions of citizens and businesses.
+    
 - <b>Logboek Dataverwerkingen Standard (inspired by OpenTelemetry)</b>
   
   - [Standard](https://logius-standaarden.github.io/logboek-dataverwerkingen/) – Currently leading the development and maintenance of a national government logging standard based on the [GDPR](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/gdpr-basics/the-gdpr-in-brief) within Logius, providing real-time transparency for data mutations.  This is potentially impacting millions of citizens and organizations with real-time transparency in their data mutations by the government.
